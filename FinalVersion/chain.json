@@ -1,0 +1,78 @@
+{
+  "chain": [
+    {
+      "timestamp": "Tuesday, June 23, 2020",
+      "transaction": {
+        "location": {
+          "district": "#",
+          "taluka": "#",
+          "village": "#",
+          "khatraNo": "#",
+          "layoutNo": "#",
+          "nagar": "#"
+        },
+        "ownership": {
+          "date": "#",
+          "seller": "#",
+          "buyer": "#",
+          "fromAddress": "#",
+          "toAddress": "#"
+        }
+      },
+      "previousHash": "#",
+      "hash": "d383310a9006dc0766b431bf102cdfe3133674a4fa4441268f8f2f247980f5c7",
+      "nonce": 0
+    },
+    {
+      "timestamp": "Saturday, July 4, 2020",
+      "transaction": {
+        "location": {
+          "district": "Nagpur",
+          "taluka": "Nagpur(Rural)",
+          "village": "Peotha",
+          "khatraNo": "20",
+          "layoutNo": "86",
+          "nagar": "Shirdi Nagar"
+        },
+        "ownership": {
+          "seller": "Abhijeet Padghan",
+          "buyer": "Jayesh Chodhary",
+          "date": "20/20/2000",
+          "fromAddress": "04eba28b463af82c9345b269c28c1dd2af2628b4ae6e9032a0d55ab7e7f96ea24db01a3178177c360442d77b431ad8a1aec18eab93a85817e40c0b32ec74be6ffa",
+          "toAddress": "04a8d3bfe7d00fe08ea97f890aa742149ec5abdb2690177f2e3d019d663f33f1ef02d9c49efb9dea05caf3a29b225ed1c87e060235edd58fb7f973cfb7d6e01086"
+        },
+        "signature": "3045022100b7c94360972ae79a1607f7ea7453ac15763c38a0fb8453d46d100f40d0ee0a87022002e28c1775823b094f88cf6d4ad643aaf3fda6e8752d8e37f63af4371dfd4702"
+      },
+      "previousHash": "d383310a9006dc0766b431bf102cdfe3133674a4fa4441268f8f2f247980f5c7",
+      "nonce": 68447,
+      "hash": "0000c8c933158c2ea0cef935a34f8684c849f4a9ee9049a40427a509c9bb04ee"
+    },
+    {
+      "timestamp": "Saturday, July 4, 2020",
+      "transaction": {
+        "location": {
+          "district": "Nagpur",
+          "taluka": "Nagpur(Rural)",
+          "village": "Peotha",
+          "khatraNo": "20",
+          "layoutNo": "86",
+          "nagar": "Shirdi Nagar"
+        },
+        "ownership": {
+          "seller": "Jayesh Chodhary",
+          "buyer": "Utkarsh Verma",
+          "date": "31/03/2020",
+          "fromAddress": "04a8d3bfe7d00fe08ea97f890aa742149ec5abdb2690177f2e3d019d663f33f1ef02d9c49efb9dea05caf3a29b225ed1c87e060235edd58fb7f973cfb7d6e01086",
+          "toAddress": "04b7ab6866a7ac0ec0df725b990839e438f718255f9ac040b920b61fa70f7439728adca8a336f1c82c10454ea2783c8b85f8ddfbe5dff84b308ff6fb45ed300624"
+        },
+        "signature": "304502207b18c1b189188a44b57a09ccf97a8d35207359a50a350b926fe0498da8908477022100929414997205288e4fae92699d7161204fd4ced6b8211e0e7fd9aa298c6aa1c8"
+      },
+      "previousHash": "0000c8c933158c2ea0cef935a34f8684c849f4a9ee9049a40427a509c9bb04ee",
+      "nonce": 23696,
+      "hash": "00007157815cfc693ee984e242be413788b3e9d70e40d0d34463a133cb4344e7"
+    }
+  ],
+  "difficulty": 4,
+  "pendingTransactions": {},
+  "miningReward": 10
+}
